@@ -1,10 +1,8 @@
 {
   "version": 1,
-  "seq": 1791065349,
-  "emitida": "2026-10-03T22:09:09Z",
-  "licencias": [
-    "L-PRUEBA"
-  ],
+  "seq": 1791065388,
+  "emitida": "2026-10-03T22:09:48Z",
+  "licencias": [],
   "copias": [],
-  "firma": "6798c6fb1cdabbd4e0120eb081ac8a9e5a1c64846d529b073cbce6b4372e4a7745e49a587b4980c3d2716bab28a4a72bb3e1925509077bc09ed20460ec182c00"
+  "firma": "5fbba2a580dbcbedc31702c0139a1923793e59da2ebaa6dd051796a015126cd4e6f84e4b0b1250fce7b6ea8e1684940408fcf896c76aa8e1058e7a5d5a5d9601"
 }
